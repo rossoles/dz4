@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Рус\\Desktop\\Новая папка\\Новая папка.csproj": {}
+    "C:\\Users\\Рус\\Desktop\\dz\\dz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Рус\\Desktop\\Новая папка\\Новая папка.csproj": {
+    "C:\\Users\\Рус\\Desktop\\dz\\dz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Рус\\Desktop\\Новая папка\\Новая папка.csproj",
-        "projectName": "Новая папка",
-        "projectPath": "C:\\Users\\Рус\\Desktop\\Новая папка\\Новая папка.csproj",
+        "projectUniqueName": "C:\\Users\\Рус\\Desktop\\dz\\dz.csproj",
+        "projectName": "dz",
+        "projectPath": "C:\\Users\\Рус\\Desktop\\dz\\dz.csproj",
         "packagesPath": "C:\\Users\\Рус\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Рус\\Desktop\\Новая папка\\obj\\",
+        "outputPath": "C:\\Users\\Рус\\Desktop\\dz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Рус\\AppData\\Roaming\\NuGet\\NuGet.Config",
